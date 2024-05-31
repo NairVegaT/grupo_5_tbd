@@ -1,6 +1,18 @@
-# aqui otro chico
+# Título del Proyecto : XXX E-Commerce
 
+# Slogan o imagen si existe
 
+# Información ....
+# Objetivos ...
+
+# Integrantes
+<ul>
+  <li>....</li>
+  <li>....</li>
+  <li>....</li>
+  <li>....</li>
+  <li>....</li>
+</ul>
 
 
 

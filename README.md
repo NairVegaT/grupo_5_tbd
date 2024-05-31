@@ -8,9 +8,9 @@
 # Integrantes
 <ul>
   <li>Alive, Luciano</li>
-  <li>Vega, Milagros Nahir</li>
   <li>Albornoz, Alfredo</li>
   <li>Loyola, Leo Martin</li>
+  <li>Vega, Milagros Nahir</li>
   <li>.Zareba, Daniel Agustin</li>
 </ul>
 

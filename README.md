@@ -11,7 +11,7 @@
   <li>Albornoz, Alfredo</li>
   <li>Loyola, Leo Martin</li>
   <li>Vega, Milagros Nahir</li>
-  <li>.Zareba, Daniel Agustin</li>
+  <li>Zareba, Daniel Agustin</li>
 </ul>
 
 
@@ -20,6 +20,8 @@
 
 
 
+
+# Información de los Integrantes
 
 # ¡Hola! 👋 me llamo Leo Martin Loyola
 # soy Docente en EPET N2 y Colegio N20

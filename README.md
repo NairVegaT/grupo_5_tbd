@@ -53,7 +53,10 @@ https://spacegamer.com.ar/
 ->Slider para recorrer sus productos, son sencillos y no pasan tan rapidos como en otros, su vista en modalidad Celular es muy adaptativa<br>
 https://www.hardgamers.com.ar/<br>
 
-
+# Recursos
+<ul>
+  <li><a href="https://trello.com/b/TCV41gpT/story">Trello</li>
+</ul>
 # wireFrames
 Para su desarrollo, se trabajo con las siguientes herramientas:
 URL de los templates: <a> href="https://github.com/FlameWing2/grupo_5_tbd/tree/main/wireFrames">WIREFRAMES</a>

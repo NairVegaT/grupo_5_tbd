@@ -1,5 +1,5 @@
 # Título del Proyecto : XXX E-Commerce
-# URL: <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/> https://github.com/FlameWing2/grupo_5_tbd (cambiar Nombre)
+# URL: <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> https://github.com/FlameWing2/grupo_5_tbd (cambiar Nombre)
 
 # Que ofrece PowerCore al Mercado Argentino
 

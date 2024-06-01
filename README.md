@@ -39,8 +39,28 @@ Para satisfacer las necesidades de nuestra audiencia, implementaremos las siguie
 </ul>
 
 
-# Información ....
-# Objetivos ...
+# Referencias en el Mercado
+PowerCore ha tomado como punto de partida, el análisis y estructuracion desde varios puntos de referencias, sobre todo paginas de venta de hardware variado, buscando sus posibles desventajas y adaptándolas a nuestro beneficio personal.
+
+https://uranostream.com/
+https://www.maximus.com.ar/
+->Registro sencillo y facil de seguir la pagina
+https://www.xt-pc.com.ar/
+->Me gusta personalmente más el de xt-pc, en el modo mobile sobretodo te coloca de forma cómoda el carrito. En Spacegamer me gusta como se muestra un producto destacado y luego 2 productos más pequeños
+https://fullh4rd.com.ar/
+->Panel de buscar muy sencillo, usando bloques para moverse entre categorias
+https://spacegamer.com.ar/
+->Slider para recorrer sus productos, son sencillos y no pasan tan rapidos como en otros, su vista en modalidad Celular es muy adaptativa
+https://www.hardgamers.com.ar/
+
+
+# wireFrames
+Para su desarrollo, se trabajo con las siguientes herramientas:
+URL de los templates: <a> href="https://github.com/FlameWing2/grupo_5_tbd/tree/main/wireFrames">WIREFRAMES</a>
+<ul>
+  <li><a href="https://app.diagrams.net/">Drawio.com</a></li>
+  <li><a href="https://wireframepro.mockflow.com/">MockFlow</a></li>
+</ul>
 
 # Integrantes
 <ul>

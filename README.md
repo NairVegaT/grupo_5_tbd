@@ -70,7 +70,7 @@ URL de los templates: <a> href="https://github.com/FlameWing2/grupo_5_tbd/tree/m
   <li>Alive, Luciano</li>
   <li>Albornoz, Alfredo</li>
   <li>Loyola, Leo Martin</li>
-  <li>Vega, Milagros Nahir</li>
+  <li>Vega, Milagros Cintia Nair</li>
   <li>Zareba, Daniel Agustin</li>
 </ul>
 
